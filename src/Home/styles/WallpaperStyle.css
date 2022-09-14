@@ -3,12 +3,10 @@
     font-size: 100px;
     color: rgb(231, 33, 33);
     font-style: italic;
+    text-align: center;
 }
 
-.MainPic{
-    width: 1600px;
-    height: 500px;
-}
+
 #h4{
     position: relative;
     font-size: 70px;
@@ -18,8 +16,9 @@
     background-color: aqua;
     font-family: Poppins;
     border-radius: 50%;
-    margin-left: 500px;
-    text-decoration-style: wavy;
+    margin-left: 700px;
+justify-items: center;   
+ text-decoration-style: wavy;
 }
 
 .MainPic {
