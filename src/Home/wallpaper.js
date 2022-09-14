@@ -74,12 +74,7 @@ renderSuggestions = () => {
 
     render(){
         const {locationValues}=this.props;
-        return(
-            <div id="carouselExampleSlidesOnly" data-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="https://source.unsplash.com/1400x300/?pizza" class="MainPic" alt="..."/>
-                <div class="carousel-caption d-none d-md-block">
+        return(          <>
                     <h4 id="h4">E!</h4>
                     <h1 id="h1"> <b>ZOMATO</b></h1>
                     <form>
@@ -102,11 +97,7 @@ renderSuggestions = () => {
                             </div>
                         </div>
                     </form>
-                </div>
-            </div>
-
-        </div>
-    </div>
+                    </>
         )
     }
 }
