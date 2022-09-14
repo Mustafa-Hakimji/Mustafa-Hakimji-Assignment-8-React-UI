@@ -1,0 +1,110 @@
+.detailIMG{
+    height: 500px;
+    width: 700px;
+}
+
+.CuisineType{
+    color:blueviolet;
+    font-weight: bolder;
+
+}
+
+.RestaurantName{
+font-weight: bolder;
+color: blueviolet;
+size: 65px;
+}
+
+/* Buttons CSS */
+
+.Overview{
+    margin: 10px;
+    width: 300px;
+    height: 60px;
+}
+
+.Contact{
+    margin: 10px;
+    width: 300px;
+    height: 60px;
+}
+
+.BOTH{
+    margin: 10px;
+    width: 300px;
+    height: 60px;
+
+}
+.Button1{
+    background-color: yellow;
+    color: royalblue;
+
+}
+.Button2{
+    background-color: royalblue;
+    color: yellow;
+    
+
+}
+
+/* Data Under the Buttons */
+
+.About{
+    text-align: center;
+    size: 65px;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+
+}
+
+.cuisine{
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.Price{
+    font-weight: bold;
+
+}
+
+
+.cuisineT{
+    font-weight: bolder;
+    text-align-last: center;
+
+}
+
+.PriceT{
+    font-weight: bolder;
+    text-align-last: center;
+
+}
+
+.Desc{
+    text-align-last: center;
+font-weight: bolder;
+}
+
+
+
+.HRTAG{
+    color: black;
+    background-color: black;
+}
+
+.HRTAG1{
+    color: white;
+    background-color: yellow;
+ width: 680px;
+ margin-left: -1px;
+}
+
+.MainDiv{
+    background-color: black;
+}
+
+.RestaurantDetails{
+    color: aqua;
+}
